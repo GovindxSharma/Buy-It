@@ -426,6 +426,7 @@ footer .copyright{
   justify-content: center;
   text-align: center;
   padding: 14px;
+  background-size: cover;
 }
 
 #page-header h2,
