@@ -7,7 +7,7 @@
 
 ### 🚀 Live Demo
 
-[👉 View Live](#)
+[👉 View Live](https://govindxsharma.github.io/Buy-It/)
 *Deploy it on Render or GitHub Pages and add the link here.*
 
 ---
